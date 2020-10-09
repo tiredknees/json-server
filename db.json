@@ -1,5 +1,5 @@
 {
-  jwks: {
+  "jwks": {
     "keys": [
         {
             "p": "2qsY2OSsaMdmuZMYrkeFElEU4X_IMo98r7a54CSq8oW20TnNDWtfHnfnj_K46eq5UHLMlIaz35QKgdeAY-0gE34jTbg6AR9cB9oPUMU9It9bqcjV07ZVWTD7bE9tYC-9Xy_ORgg6lsri4OzVYVAGepO7QMaUVeP5Z-ptkdF8EPc",
